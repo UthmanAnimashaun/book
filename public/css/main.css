@@ -1,0 +1,36 @@
+html, body {
+    background-color: #fff;
+    color: #000c11;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    margin: 0;
+}
+.full-height {
+    height:100vh;
+
+}
+.content {
+    text-align: center;
+}
+.flex-center {
+    align-items: center;
+}
+
+
+.m-b-md {
+    margin-bottom: 30px !important;
+}
+
+footer {
+    background: #eee;
+    padding: 20px;
+    text-align: center;
+}
+.title {
+    font-size: 50px !important;
+    text-transform: uppercase;
+    border-bottom: 2px solid;
+    padding: 12px;
+    color: #888;
+
+}
