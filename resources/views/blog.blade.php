@@ -21,7 +21,7 @@
             <a href="#" class="flex flex-col items-center bg-white border mt-8 border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
                 <img class="object-cover w-full rounded-t-lg h-96 md:h-full md:w-48 md:rounded-none md:rounded-l-lg" src="/img/a1.jpg" alt="">
                 <div class="flex flex-col justify-between p-4 leading-normal">
-                    <span class="block flex justify-between text-gray-500 text-sm">By Abu Bilal <i class="">2mins ago</i></span>
+                    <span class="block justify-between text-gray-500 text-sm">By Abu Bilal <i class="">2mins ago</i></span>
             
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">1st Hadith </h5>
                     <p  class="mb-3   font-normal text-gray-700 dark:text-gray-400"> عن ابي هريرة <b class="text-blue-400">More...</b> </p>
@@ -35,9 +35,9 @@
 
             {{-- card --}}
             <a href="#" class="flex flex-col items-center bg-white border mt-8 border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-                <img class="object-cover w-full rounded-t-lg h-96 h-fit md:h-full md:w-48 md:rounded-none md:rounded-l-lg" src="/img/a2.jpg" alt="">
+                <img class="object-cover w-full rounded-t-lg h-96 dh-fit md:h-full md:w-48 md:rounded-none md:rounded-l-lg" src="/img/a2.jpg" alt="">
                 <div class="flex flex-col justify-between p-4 leading-normal">
-                    <span class="block flex justify-between text-gray-500 text-sm">By Abu Bilal <i class="">2mins ago</i></span>
+                    <span class="block fslex justify-between text-gray-500 text-sm">By Abu Bilal <i class="">2mins ago</i></span>
             
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order. <b class="text-blue-400">More...</b> </p>

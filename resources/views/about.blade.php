@@ -20,7 +20,7 @@
     
 
 
-<h2>about page</h2>
+<h2>About Page</h2>
 <center class="flex-center position-ref full-height">
     <div class="content">
         <img src="img/city.jpg" alt="Pizza House" srcset="">
